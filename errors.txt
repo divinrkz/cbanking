@@ -1,0 +1,3 @@
+- Spaces between names
+- Convert strng to number
+- fix kariya ka name
